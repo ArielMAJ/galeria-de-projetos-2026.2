@@ -1,0 +1,1 @@
+# galeria-de-projetos-2026.2
