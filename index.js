@@ -10,6 +10,14 @@ const classroomProjects = [
     screenshot: "",
   },
   {
+    title: "📝 Exemplo Básico HTML e CSS",
+    description:
+      "Um website simples e construído rapidamente para demonstrar algumas funcionalidades básicas do HTML e CSS.",
+    github: "https://github.com/ArielMAJ/exemplo-html",
+    live: "https://exemplo-html.vercel.app/",
+    screenshot: "",
+  },
+  {
     title: "📝 Exemplo Básico HTML/CSS/JS",
     description:
       "Um website simples e construído rapidamente para demonstrar todas as funcionalidades básicas de HTML, CSS e JS e Bootstrap.",
