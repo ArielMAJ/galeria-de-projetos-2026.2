@@ -11,6 +11,15 @@ const portfolios = [
     authorName: "Prof. Ariel Menezes",
     authorPhoto: "https://avatars.githubusercontent.com/u/69123486?s=96&v=4", // URL de foto opcional. Utilize o do seu perfil do GitHub.
   },
+  {
+    title: "Portfólio André",
+    description: "",
+    github: "https://github.com/andrecoedev/meu-portifolio-Desenvolvimento-Full-Stack",
+    live: "https://meu-portifolio-desenvolvimento-full.vercel.app/", // URL do site em produção. Se não funcionar, deixe vazio e adicione uma screenshot
+    screenshot: "", // URL de imagem opcional; se vazio, será mostrado o iframe do site
+    authorName: "André Lucas Coelho",
+    authorPhoto: "https://avatars.githubusercontent.com/u/83669560?v=4", // URL de foto opcional. Utilize o do seu perfil do GitHub.
+  },
 ];
 
 function customInnerHTML(cardData) {
